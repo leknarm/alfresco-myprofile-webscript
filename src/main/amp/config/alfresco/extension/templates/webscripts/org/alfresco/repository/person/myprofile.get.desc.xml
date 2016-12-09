@@ -1,0 +1,8 @@
+<webscript>
+  <shortname>Get current user proflie</shortname>
+  <description>Get details of a current person.</description>
+  <url>/api/people/myprofile</url>
+  <format default="json">argument</format>
+  <authentication>user</authentication>
+  <transaction allow="readonly">required</transaction>
+</webscript>
