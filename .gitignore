@@ -9,3 +9,6 @@ buildNumber.properties
 .mvn/timing.properties
 alf_data_dev/
 tomcat/
+.classpath
+.project
+.settings/
